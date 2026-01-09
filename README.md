@@ -18,6 +18,11 @@ Qualifying performance is widely believed to be one of the strongest determinant
 - Statistical evaluation of key predictors (qualifying position, driver form, team strength)
 - Binary logistic regression model to predict top-10 finishes
 
+## Repository Contents
+- `analysis/` — PDFs summarizing exploratory analysis, modeling ideas, and research notes
+- `interactive/` — Interactive HTML visualizations examining relationships between qualifying position, driver form, team strength, and finishing position
+- `src/` — Python scripts used for data collection, feature engineering, statistical analysis, and model development
+
 ## Data
 - Official Formula 1 timing and session data via the **FastF1 API**
 - Race results, qualifying data, and race-level context features
