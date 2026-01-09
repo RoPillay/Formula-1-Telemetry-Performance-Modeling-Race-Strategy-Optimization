@@ -37,4 +37,5 @@ A full academic-style LaTeX manuscript documenting the methodology, analysis, an
 Statistics & Data Science — UC Davis
 
 **Professor Maxime Guiffo Pouokam**
+
 UC Davis Department of Statistics
