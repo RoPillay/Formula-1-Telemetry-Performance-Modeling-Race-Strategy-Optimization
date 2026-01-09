@@ -36,6 +36,5 @@ A full academic-style LaTeX manuscript documenting the methodology, analysis, an
 **Rohan Pillay**  
 Statistics & Data Science — UC Davis
 
-**Professor Maxime Guiffo Pouokam**
-
-UC Davis Department of Statistics
+**Professor Maxime Guiffo Pouokam** 
+UC Davis Deparment of Statistics 
