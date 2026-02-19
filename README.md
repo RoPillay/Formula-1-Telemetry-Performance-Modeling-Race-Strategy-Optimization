@@ -33,7 +33,7 @@ Qualifying performance is widely believed to be one of the strongest determinant
 - Local caching enabled for reproducibility
 
 ## Planned Extensions
-- Plackett- Luce Ranking Model
+- Plackett-Luce Ranking Model
 - Support Vector Machines (SVMs)
 - Correlation-driven feature selection
 - Deep learning models for race outcome prediction
