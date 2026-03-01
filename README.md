@@ -17,6 +17,7 @@ Qualifying performance is widely believed to be one of the strongest determinant
 - Exploratory data analysis and correlation studies
 - Statistical evaluation of key predictors (qualifying position, driver form, team strength)
 - Binary logistic regression model to predict top-10 finishes
+- Plackett-Luce Model expploration
 
 ## Repository Contents
 - `analysis/` — PDFs summarizing exploratory analysis, modeling ideas, and research notes
@@ -33,9 +34,8 @@ Qualifying performance is widely believed to be one of the strongest determinant
 - Local caching enabled for reproducibility
 
 ## Planned Extensions
-- Plackett-Luce Ranking Model
+- PCA and ML for Plackett-Luce Model
 - Support Vector Machines (SVMs)
-- Correlation-driven feature selection
 - Deep learning models for race outcome prediction
 - Integration of richer telemetry and strategy features
 
