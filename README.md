@@ -17,7 +17,7 @@ Qualifying performance is widely believed to be one of the strongest determinant
 - Exploratory data analysis and correlation studies
 - Statistical evaluation of key predictors (qualifying position, driver form, team strength)
 - Binary logistic regression model to predict top-10 finishes
-- Plackett-Luce Model expploration
+- Plackett-Luce Model exploration
 
 ## Repository Contents
 - `analysis/` — PDFs summarizing exploratory analysis, modeling ideas, and research notes
